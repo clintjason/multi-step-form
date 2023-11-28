@@ -308,13 +308,6 @@ button:focus-visible {
 .minus_mt_15 {
   margin-top: -15px;
 }
-/* #my-anchor-element-id + div {
-  opacity: 0.7 !important;
-} */
-
-.styles-module_tooltip__mnnfp {
-  opacity: 0.7;
-}
 
 .form_header_item.active .form_header__title {
   color: rgb(255,253,252);
@@ -324,6 +317,10 @@ button:focus-visible {
   background-color: rgb(255,255,255);
   /* background-color: rgb(232,233,252); */
   color: rgb(147,215,253);
+}
+
+.tool_tip {
+  background-color: rgba(0,0,0,0.7) !important;
 }
 
 .error_msg {

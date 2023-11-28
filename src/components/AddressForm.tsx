@@ -73,6 +73,7 @@ export function AddressForm({
         <Tooltip
           place="right"
           anchorSelect="#my-anchor-element-id"
+          className="tool_tip"
         >
           <div className="tip">
             <p>Local: Brands with distribution in 3 divisions or less OR
