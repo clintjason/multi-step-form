@@ -30,7 +30,7 @@ const docs = [
     id: '1',
     name: 'Electronically sign the agreement(s)',
     isSigned: true,
-    link: 'https://example.com/document1',
+    link: '#',
   },
 ];
 
