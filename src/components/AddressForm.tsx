@@ -38,12 +38,6 @@ const stepTitle: string = "Step 2"
 const title: string = "Business Information"
 const description: string = "Please enter information about your company."
 
-const tip = <div className="tip">
-  <p>Local: Brands with distribution in 3 divisions or less OR
-    multiple divisionsbut a total of 150 stores or less
-  </p>
-  <p>National: Brands with distribution in 4 or more divisions or in more than 150 stores</p>
-</div>
 export function AddressForm({
   brandName,
   brandType,
